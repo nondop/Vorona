@@ -109,7 +109,7 @@ fun ArtSpaceScreen() {
                 modifier = Modifier
                     .padding(16.dp)
                     .size(120.dp, 40.dp),
-                onClick = { if (id>1) id++ }
+                onClick = { if (id>1) id-- }
             ) {
                 Text(text = "Previous")
             }
