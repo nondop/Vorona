@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="ukraine_kyiv">Ukraine, Kyiv</string>
+    <string name="ukraine_lviv">Ukraine, Lviv</string>
+    <string name="ukraine_odesa">Ukraine, Odesa</string>
+    <string name="population_kyiv">Population: 3.02 million</string>
+    <string name="population_lviv">Population: 0.72 million</string>
+    <string name="population_odesa">Population: 1.0 million</string>
+</resources>
